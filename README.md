@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hameddaneshvar&label=Profile%20views&color=0e75b6&style=flat" alt="hameddaneshvar" /> </p>
 
-- 🔭 I’m currently working on ***Qgpt*, where we’re building AI-driven solutions using LLMs and computer vision to solve real-world problems.**
+- 🔭 I’m currently working on **Qgpt**, where we’re building AI-driven solutions using LLMs and computer vision to solve real-world problems.
 
-- 🌱 I’m currently learning ***LLM customization, MLOps best practices,* and how to *bridge the gap between AI research and product***
+- 🌱 I’m currently learning **LLM customization, MLOps best practices,** and how to **bridge the gap between AI research and product**
 
-- 👯 I’m looking to collaborate on ***cool AI projects* — from LLMs and CV to real-world machine learning apps. Let’s build something awesome!**
+- 👯 I’m looking to collaborate on **cool AI projects** — from LLMs and CV to real-world machine learning apps. Let’s build something awesome!*
 
-- 🤝 I’m looking for help with ***scaling AI products*, especially around *LLM optimization, MLOps, and turning research into real-world applications***
+- 🤝 I’m looking for help with **scaling AI products**, especially around **LLM optimization, MLOps, and turning research into real-world applications**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HamedDaneshvar](https://github.com/HamedDaneshvar)
 
-- 💬 Ask me about **from *Python tricks* and *ML models,* to how to *build and ship AI-powered products.***
+- 💬 Ask me about from **Python tricks** and **ML models,** to how to **build and ship AI-powered products.**
 
 - 📫 How to reach me **hmddaneshvar@gmail.com**
 
